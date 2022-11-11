@@ -14,6 +14,7 @@ public class E {
 		String name2;
 		String name3;
 		String name4;
+		
 		int p1;
 		int p2;
 		int p3;
@@ -37,9 +38,9 @@ public class E {
 		System.out.println("동생의 나이");
 		p4 = sc.nextInt();
 		
+		
 		int sum;
 		sum = p1+p2+p3+p4 ; 
-		
 		double avg; 
 		avg = sum/4.0;
 		
